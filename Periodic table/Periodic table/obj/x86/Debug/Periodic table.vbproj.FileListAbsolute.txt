@@ -1,0 +1,9 @@
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\bin\Debug\Periodic table.exe
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\bin\Debug\Periodic table.pdb
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\bin\Debug\Periodic table.xml
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic_table.Form1.resources
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic_table.Resources.resources
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic table.vbproj.GenerateResource.Cache
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic table.exe
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic table.xml
+C:\Users\Gery\Documents\Visual Studio 2010\Projects\Periodic table\Periodic table\obj\x86\Debug\Periodic table.pdb

@@ -1,0 +1,9 @@
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\bin\Debug\TimeTable3.exe
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\bin\Debug\TimeTable3.pdb
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\bin\Debug\TimeTable3.xml
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.Resources.resources
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.vbproj.GenerateResource.Cache
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.exe
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.xml
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.pdb
+c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.ViewForm.resources

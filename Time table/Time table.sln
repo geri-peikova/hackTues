@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Time table", "Time table\Time table.vbproj", "{292E3CC2-E51C-4D50-86FE-FEF775B296A6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ViewAG", "ViewAG\ViewAG.vbproj", "{1AF13B78-EE2E-48D9-8593-4F3252FAAE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292E3CC2-E51C-4D50-86FE-FEF775B296A6}.Debug|x86.ActiveCfg = Debug|x86
+		{292E3CC2-E51C-4D50-86FE-FEF775B296A6}.Debug|x86.Build.0 = Debug|x86
+		{292E3CC2-E51C-4D50-86FE-FEF775B296A6}.Release|x86.ActiveCfg = Release|x86
+		{292E3CC2-E51C-4D50-86FE-FEF775B296A6}.Release|x86.Build.0 = Release|x86
+		{1AF13B78-EE2E-48D9-8593-4F3252FAAE17}.Debug|x86.ActiveCfg = Debug|x86
+		{1AF13B78-EE2E-48D9-8593-4F3252FAAE17}.Debug|x86.Build.0 = Debug|x86
+		{1AF13B78-EE2E-48D9-8593-4F3252FAAE17}.Release|x86.ActiveCfg = Release|x86
+		{1AF13B78-EE2E-48D9-8593-4F3252FAAE17}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
