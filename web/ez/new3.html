@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="css/table.css">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+
+</head>
+<body>
+
+<table align="center">
+  <tr>
+    <td>
+
+        <a  onclick="showHideDiv('div-1');"><img src="FE.jpg" alt="FE"/></a>
+        <div id="div-1" class="popup" style="display:none">
+        <p>Физични свойства на желязото:
+            <br>-Агрегатно състояние-твърдо
+            <br>-сребристобял метал с метален блясък
+            <br>-добра ковкост и изтегливост
+            <br>-добра електропроводимост
+        </p>
+        <p class="p_right">Химични свойства на желязото:
+            <br>-Повърхността на желязото се оксидира, когато е изложена на въздух и се покрива с червен или кафяв железен оксид (ръжда).
+            <br>-При висока температура желязото взаимодейства с неметали
+        </p>
+        <p class="reactions">Желязото взаимодейства с:
+            <br><a data-container="body" data-toggle="popover" data-placement="left" data-content="3Fe + HOH = Fe3O4 + 4H2">Вода(HOH)</a>
+            <br><a data-container="body" data-toggle="popover" data-placement="left" data-content="2 Fe + 3 O = Fe2O3">Кислород(O)</a>
+            <a href=""></a>
+        </p>
+
+        </div>
+    </td>
+    <td>
+
+        <a  onclick="showHideDiv('div-2');"><img src="Ba.jpg" alt="Ba"/></a>
+            <div id="div-2" class="popup" style="display:none">
+            <p>Физични свойства на бария:
+            <br>-сребрист метал
+            <br>-висока температура на топене
+            </p>
+            <p class="p_right">Химични свойства на бария:
+            <br>-взаимодейства с неметали
+            </p>
+            <p class="reactions">Бария взаимодейства с :
+            <br><a data-container="body" data-toggle="popover" data-placement="left" data-content="Ba + 2 HOH = Ba(OH)2 + H2">Вода(HOH)</a>
+            <br><a data-container="body" data-toggle="popover" data-placement="left" data-content="Ba + O = BaO">Кислород(O)</a>
+            <br><a data-container="body" data-toggle="popover" data-placement="left" data-content="Ba + 2 Cl = BaCl2">Хлор(Cl)</a>
+
+            </p>
+
+
+
+
+
+
+
+            </div>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="H.html"></a></td>
+    <td><a href="Mg.html"></a></td>
+    <td><a href="Cu.html"></a></td>
+  </tr>
+  <tr>
+    <td><a href="N.html"></a></td>
+    <td><a href="Na.html"></a></td>
+    <td><a href="K.html"></a></td>
+  </tr>
+</table>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script>
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+</script>
+<script>
+function myFunction() {
+    location.reload();
+}
+</script>
+<script>
+function showHideDiv(id){
+  var obj = document.getElementById(id);
+    if (obj.style.display=="none"){
+      obj.style.display='block';
+    } else if(obj.style.display=="block"){
+      obj.style.display='none';
+    }
+}
+</script>
+
+
+</body>
+</html>
