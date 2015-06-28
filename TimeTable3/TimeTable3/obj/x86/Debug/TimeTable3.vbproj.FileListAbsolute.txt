@@ -7,3 +7,6 @@ c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x8
 c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.xml
 c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.pdb
 c:\users\gery\documents\visual studio 2010\Projects\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.ViewForm.resources
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.exe
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.xml
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\TimeTable3\TimeTable3\obj\x86\Debug\TimeTable3.pdb

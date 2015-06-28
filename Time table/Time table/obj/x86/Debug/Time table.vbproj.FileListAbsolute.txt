@@ -8,3 +8,6 @@ c:\users\gery\documents\visual studio 2010\Projects\Time table\Time table\obj\x8
 c:\users\gery\documents\visual studio 2010\Projects\Time table\Time table\obj\x86\Debug\Time table.xml
 c:\users\gery\documents\visual studio 2010\Projects\Time table\Time table\obj\x86\Debug\Time table.pdb
 c:\users\gery\documents\visual studio 2010\Projects\Time table\Time table\obj\x86\Debug\Time_table.ViewForm.resources
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\Time table\Time table\obj\x86\Debug\Time table.exe
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\Time table\Time table\obj\x86\Debug\Time table.xml
+C:\Users\Gery\Documents\Visual Studio 2010\hackTues\Time table\Time table\obj\x86\Debug\Time table.pdb
